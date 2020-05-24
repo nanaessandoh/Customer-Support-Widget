@@ -17,7 +17,8 @@ To run the demo first setup CometChat:
 
 Setup the server:
 
-1. In the root directory run `npm install`
+1. Go to the `client` directory
+2. In the root directory run `npm install`
 2. Run the server by running `node server.js`
 
 Setup the client:
